@@ -5,5 +5,11 @@ background-color: rgb(158, 158, 172);
 footer {
     background-color: black;
     color: aliceblue;
+    position: fixed;
     bottom: 0;
+    width: 100%;
+}
+
+footer p {
+text-align: center;
 }
